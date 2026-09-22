@@ -160,13 +160,13 @@ Filesystem usage percentage (excluding common pseudo filesystems):
 ![Node Exporter](docs/screenshots/node-exporter.png.jpeg)
 
 ### 2. PagerDuty Resolved
-![PagerDuty Resolved](docs/screenshots/Pagerduty%20resolved.jpeg)
+![PagerDuty Resolved](docs/screenshots/Pagerduty_resolved.jpeg)
 
 ### 3. PagerDuty Triggered
 ![PagerDuty Triggered](docs/screenshots/Pagerduty_triggered.jpeg)
 
 ### 4. Adding Prometheus Data Source
-![Adding Prometheus Data Source](docs/screenshots/adding_prometheus_data_resource.png)
+![Adding Prometheus Data Source](docs/screenshots/adding_prometheus_data_resource.jpeg)
 
 ### 5. Additional Grafana Dashboard
 ![Additional Dashboard](docs/screenshots/additional-dashboard.png.jpeg)
@@ -175,7 +175,7 @@ Filesystem usage percentage (excluding common pseudo filesystems):
 ![Prometheus Targets](docs/screenshots/checking_prometheus_targets.jpeg)
 
 ### 7. Prometheus After Instance Restart
-![Prometheus After Restart](docs/screenshots/after_instance_stopped_and_started_again_checking_prometheus.jpeg)
+![Prometheus After Restart](docs/screenshots/after_instance_stopped_and_started_checking_prometheus.jpeg)
 
 ### 8. CloudWatch Data Source
 ![CloudWatch Data Source](docs/screenshots/cloudwatch-datasource.png.jpeg)
@@ -196,7 +196,7 @@ Filesystem usage percentage (excluding common pseudo filesystems):
 ![Updating Data on Prometheus](docs/screenshots/updating_data_on_prometheus.jpeg)
 
 ### 14. CloudWatch CPU Usage Check
-![CloudWatch CPU Usage](docs/screenshots/with_cloudwatch_cpuusage_checking.jpeg)
+![CloudWatch CPU Usage](docs/screenshots/with_cloudwatch_cpucredusage_checking.jpeg)
 
 ### 15. CloudWatch CPU Utilization Check
 ![CloudWatch CPU Utilization](docs/screenshots/with_cloudwatch_cpuutilization_checking.jpeg)
