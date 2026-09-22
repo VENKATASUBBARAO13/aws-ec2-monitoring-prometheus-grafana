@@ -154,53 +154,52 @@ Filesystem usage percentage (excluding common pseudo filesystems):
 - Use HTTPS/reverse proxy and authentication for any internet-facing monitoring UI.
 - Sanitize screenshots: hide public IPs, account IDs, incident keys, email addresses, and other identifying details.
 
-## Evidence / screenshots
 ## Evidence / Screenshots
 
 ### 1. Node Exporter
-![Node Exporter](docs/screenshots/node-exporter.png)
+![Node Exporter](docs/screenshots/node-exporter.png.jpeg)
 
 ### 2. PagerDuty Resolved
-![PagerDuty Resolved](docs/screenshots/Pagerduty_resolved.png)
+![PagerDuty Resolved](docs/screenshots/Pagerduty%20resolved.jpeg)
 
 ### 3. PagerDuty Triggered
-![PagerDuty Triggered](docs/screenshots/Pagerduty_triggered.png)
+![PagerDuty Triggered](docs/screenshots/Pagerduty_triggered.jpeg)
 
 ### 4. Adding Prometheus Data Source
 ![Adding Prometheus Data Source](docs/screenshots/adding_prometheus_data_resource.png)
 
 ### 5. Additional Grafana Dashboard
-![Additional Dashboard](docs/screenshots/additional-dashboard.png)
+![Additional Dashboard](docs/screenshots/additional-dashboard.png.jpeg)
 
 ### 6. Checking Prometheus Targets
-![Prometheus Targets](docs/screenshots/checking_prometheus_targets.png)
+![Prometheus Targets](docs/screenshots/checking_prometheus_targets.jpeg)
 
 ### 7. Prometheus After Instance Restart
-![Prometheus After Restart](docs/screenshots/after_instanace_stopped_and_started_again_checking_prometheus.png)
+![Prometheus After Restart](docs/screenshots/after_instance_stopped_and_started_again_checking_prometheus.jpeg)
 
 ### 8. CloudWatch Data Source
-![CloudWatch Data Source](docs/screenshots/cloudwatch-datasource.png)
+![CloudWatch Data Source](docs/screenshots/cloudwatch-datasource.png.jpeg)
 
 ### 9. Grafana Dashboard
-![Grafana Dashboard](docs/screenshots/grafana-dashboard.png)
+![Grafana Dashboard](docs/screenshots/grafana-dashboard.png.jpeg)
 
 ### 10. Node Server Running
-![Node Server Running](docs/screenshots/node_server_running.png)
+![Node Server Running](docs/screenshots/node_server_running.jpeg)
 
 ### 11. Node Server After Stop
-![Node Server After Stop](docs/screenshots/Running_node_server_after_stopped.png)
+![Node Server After Stop](docs/screenshots/Running_node_server_after_stopped.jpeg)
 
 ### 12. Instance Down on Prometheus
-![Instance Down](docs/screenshots/showing_instance_down_on_prometheus.png)
+![Instance Down on Prometheus](docs/screenshots/showing_instance_down_on_prometheus.jpeg)
 
 ### 13. Updating Data on Prometheus
-![Updating Prometheus Data](docs/screenshots/updating_data_on_prometheus.png)
+![Updating Data on Prometheus](docs/screenshots/updating_data_on_prometheus.jpeg)
 
 ### 14. CloudWatch CPU Usage Check
-![CloudWatch CPU Usage](docs/screenshots/with_cloudwatch_cpuusage_checking.png)
+![CloudWatch CPU Usage](docs/screenshots/with_cloudwatch_cpuusage_checking.jpeg)
 
 ### 15. CloudWatch CPU Utilization Check
-![CloudWatch CPU Utilization](docs/screenshots/with_cloudwatch_cpuutilization_checking.png)
+![CloudWatch CPU Utilization](docs/screenshots/with_cloudwatch_cpuutilization_checking.jpeg)
 
 ## What I learned
 
