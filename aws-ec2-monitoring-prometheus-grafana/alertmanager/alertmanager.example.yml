@@ -1,0 +1,21 @@
+# Example only. Keep the real PagerDuty integration key in a secret manager
+# or inject it through your deployment environment. Never commit the key.
+global:
+  resolve_timeout: 5m
+
+route:
+  receiver: "pagerduty"
+  group_by: ["alertname", "instance"]
+  group_wait: 30s
+  group_interval: 5m
+  repeat_interval: 4h
+
+receivers:
+  - name: "pagerduty"
+    pagerduty_configs:
+      - routing_key: "<INJECT_PAGERDUTY_ROUTING_KEY_SECURELY>"
+        description: "{{ .CommonAnnotations.summary }}"
+        details:
+          alert: "{{ .CommonLabels.alertname }}"
+          instance: "{{ .CommonLabels.instance }}"
+          description: "{{ .CommonAnnotations.description }}"
