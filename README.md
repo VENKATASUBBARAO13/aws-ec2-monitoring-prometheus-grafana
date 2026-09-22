@@ -155,13 +155,52 @@ Filesystem usage percentage (excluding common pseudo filesystems):
 - Sanitize screenshots: hide public IPs, account IDs, incident keys, email addresses, and other identifying details.
 
 ## Evidence / screenshots
+## Evidence / Screenshots
 
-Add sanitized screenshots under `docs/screenshots/` and link them here. Suggested evidence:
-1. Prometheus Targets showing Node Exporter **UP**
-2. Prometheus alert state during the controlled test
-3. PagerDuty incident created and resolved (hide incident keys)
-4. Grafana dashboard showing metrics
-5. Grafana data sources configured (hide account/role details)
+### 1. Node Exporter
+![Node Exporter](docs/screenshots/node-exporter.png)
+
+### 2. PagerDuty Resolved
+![PagerDuty Resolved](docs/screenshots/Pagerduty_resolved.png)
+
+### 3. PagerDuty Triggered
+![PagerDuty Triggered](docs/screenshots/Pagerduty_triggered.png)
+
+### 4. Adding Prometheus Data Source
+![Adding Prometheus Data Source](docs/screenshots/adding_prometheus_data_resource.png)
+
+### 5. Additional Grafana Dashboard
+![Additional Dashboard](docs/screenshots/additional-dashboard.png)
+
+### 6. Checking Prometheus Targets
+![Prometheus Targets](docs/screenshots/checking_prometheus_targets.png)
+
+### 7. Prometheus After Instance Restart
+![Prometheus After Restart](docs/screenshots/after_instanace_stopped_and_started_again_checking_prometheus.png)
+
+### 8. CloudWatch Data Source
+![CloudWatch Data Source](docs/screenshots/cloudwatch-datasource.png)
+
+### 9. Grafana Dashboard
+![Grafana Dashboard](docs/screenshots/grafana-dashboard.png)
+
+### 10. Node Server Running
+![Node Server Running](docs/screenshots/node_server_running.png)
+
+### 11. Node Server After Stop
+![Node Server After Stop](docs/screenshots/Running_node_server_after_stopped.png)
+
+### 12. Instance Down on Prometheus
+![Instance Down](docs/screenshots/showing_instance_down_on_prometheus.png)
+
+### 13. Updating Data on Prometheus
+![Updating Prometheus Data](docs/screenshots/updating_data_on_prometheus.png)
+
+### 14. CloudWatch CPU Usage Check
+![CloudWatch CPU Usage](docs/screenshots/with_cloudwatch_cpuusage_checking.png)
+
+### 15. CloudWatch CPU Utilization Check
+![CloudWatch CPU Utilization](docs/screenshots/with_cloudwatch_cpuutilization_checking.png)
 
 ## What I learned
 
