@@ -195,8 +195,8 @@ Filesystem usage percentage (excluding common pseudo filesystems):
 ### 13. Updating Data on Prometheus
 ![Updating Data on Prometheus](docs/screenshots/updating_data_on_prometheus.jpeg)
 
-### 14. CloudWatch CPU Usage Check
-![CloudWatch CPU Usage](docs/screenshots/with_cloudwatch_cpucredusage_checking.jpeg)
+### 14. CloudWatch CPU Credit Usage Check
+![CloudWatch CPU Credit Usage](docs/screenshots/with_cloudwatch_cpuc reditusage_checking.jpeg)
 
 ### 15. CloudWatch CPU Utilization Check
 ![CloudWatch CPU Utilization](docs/screenshots/with_cloudwatch_cpuutilization_checking.jpeg)
