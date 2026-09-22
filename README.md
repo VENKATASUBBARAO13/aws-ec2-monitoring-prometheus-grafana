@@ -175,7 +175,7 @@ Filesystem usage percentage (excluding common pseudo filesystems):
 ![Prometheus Targets](docs/screenshots/checking_prometheus_targets.jpeg)
 
 ### 7. Prometheus After Instance Restart
-![Prometheus After Restart](docs/screenshots/after_instance_stopped_and_started_checking_prometheus.jpeg)
+![Prometheus After Restart](docs/screenshots/after_instanace_stopped_and_started_checking_prometheus.jpeg)
 
 ### 8. CloudWatch Data Source
 ![CloudWatch Data Source](docs/screenshots/cloudwatch-datasource.png.jpeg)
